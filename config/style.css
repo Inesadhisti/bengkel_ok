@@ -1,0 +1,46 @@
+
+h2 {
+	font: normal 120% Baskerville Old Face;
+	color: #265180;
+	background-color: transparent;
+	border-bottom: 1px dotted #265180;
+}
+table {
+	width :100%;
+	font-family: Baskerville Old Face; 
+	font-size: 8pt;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+th{	
+	font: normal 11px Baskerville Old Face;
+	color: #FFFFFF;
+	font-size: 7pt;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0.5em;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	border-collapse: collapse;
+	background-color:#0C3A85;
+	font-weight: bold;
+	
+}
+td{
+	padding: 0.5em;
+	vertical-align: top;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	border-collapse: collapse;
+}
+input,textarea,select{
+	font-family: Baskerville Old Face; 
+	font-size: 8pt;
+}
+
+
